@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src= ""https://i.postimg.cc/ZqC4QgCr/Untitled530-20260531010737.webp""  width="300">
+<img src="https://i.postimg.cc/ZqC4QgCr/Untitled530-20260531010737.webp" width="300">
 
 <!--
 **theodecker/theodecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
